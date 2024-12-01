@@ -1,5 +1,4 @@
-# 9-Bester-echter-Solana-Trading-Bot-Testbericht
-9 Bester echter Solana-Trading-Bot-Testbericht
+<b>9 Bester echter Solana-Trading-Bot-Testbericht</b>
 
 <p>Welcher Bot ist am besten zu verwenden? Ausgehend von den Dimensionen 
 Bearbeitungsgebühren, Sicherheit, Nutzungserfahrung, funktionale 
